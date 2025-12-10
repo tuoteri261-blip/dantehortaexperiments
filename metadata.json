@@ -1,0 +1,7 @@
+{
+  "name": "Nova AI Workspace",
+  "description": "A next-generation multimodal AI assistant featuring advanced reasoning, image generation, and natural speech synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
